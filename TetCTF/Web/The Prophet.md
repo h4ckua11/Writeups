@@ -6,7 +6,6 @@ Important note:
 
 - Brute-force won't help you solve this, you may be banned from the challenge if you do.
 - Service will auto restart per 2 mins
-
 ___
 
 You were given an [url](http://45.77.245.232:7004/) were you on which you could get some "oracle".!["Oracle"](https://github.com/h4ckua11/Writeups/blob/master/TetCTF/Web/Picture1.png) You could browse through a few files 1.txt-5.txt which were under the http://45.77.245.232:7004/read/oracle/. So the website just reads files.
