@@ -195,7 +195,7 @@ if rv is None :
 
 print (rv)
 ```
-The rv will be our generated pin. I looked tried to find all the values that were required to generate a valid pin.
+The rv will be our generated pin. I tried to find all the values that were required to generate a valid pin.
 Those were the things I needed.
 ```python
 probably_public_bits = [ 
