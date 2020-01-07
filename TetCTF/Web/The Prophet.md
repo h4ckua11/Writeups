@@ -8,7 +8,7 @@ Important note:
 - Service will auto restart per 2 mins
 ___
 
-You were given an [url](http://45.77.245.232:7004/) were you on which you could get some "oracle".!["Oracle"](https://github.com/h4ckua11/Writeups/blob/master/TetCTF/Web/Picture1.png) You could browse through a few files 1.txt-5.txt which were under the http://45.77.245.232:7004/read/oracle/. So the website just reads files.
+You were given an [url](http://45.77.245.232:7004/) were you could get some "oracle".!["Oracle"](https://github.com/h4ckua11/Writeups/blob/master/TetCTF/Web/Picture1.png) You could browse through a few files 1.txt-5.txt which were under the http://45.77.245.232:7004/read/oracle/. So the website just reads files.
 
 Now if you try to read a file that doesn't exist you get an error.!["Error"](https://github.com/h4ckua11/Writeups/blob/master/TetCTF/Web/Picture2.png)
 
